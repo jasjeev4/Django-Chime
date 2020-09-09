@@ -22,4 +22,4 @@ http://127.0.0.1:8000/
 
 A screenshot of a prototype is provided:
 
-![Django-Chime](https://i.ibb.co/SxYFZS5/Chime.png)
+![Django-Chime](https://i.imgur.com/jmv9ecX.png)
